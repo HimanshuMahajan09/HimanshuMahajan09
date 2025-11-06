@@ -3,6 +3,7 @@
 ## Full-Stack Developer | Java • React • Node.js • SQL • AWS
 
 **👨‍💻 About Me**
+
 I’m a Full-Stack Developer with hands-on experience in building scalable and user-focused web applications using Java, React, Node.js, and SQL. I enjoy solving real-world problems through clean code, structured design, and modern development practices.
 Along with full-stack development, I also explore cybersecurity concepts to better understand secure coding, data protection, and system vulnerabilities.
 
