@@ -11,6 +11,7 @@ Along with full-stack development, I also explore cybersecurity concepts to bett
 
 ### 🔧 Tech Stack
 **Languages & Frameworks**
+
 •Java
 •Spring Boot
 •JavaScript
@@ -19,11 +20,13 @@ Along with full-stack development, I also explore cybersecurity concepts to bett
 •Express
 
 **Database & Cloud**
+
 •MySQL
 •MongoDB
 •AWS
 
 **Tools & Other Skills**
+
 •GitHub
 •Postman
 •VS Code
