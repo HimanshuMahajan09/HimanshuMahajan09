@@ -30,6 +30,7 @@ Along with full-stack development, I also explore cybersecurity concepts to bett
 •GitHub
 •Postman
 •VS Code
+
 ---
 
 ### 📘 Projects
