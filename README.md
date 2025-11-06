@@ -1,17 +1,31 @@
 # 👋 Hi there, I'm Himanshu Mahajan
 
-🚀 Aspiring Software Developer | 💻 Java Enthusiast | 🌐 Web Developer in Progress
+## Full-Stack Developer | Java • React • Node.js • SQL • AWS
 
-I'm passionate about building real-world applications using Java and exploring modern web technologies. Currently, I'm learning backend development using *Java + Spring Boot* and diving into full-stack web development with *JavaScript*.
+**👨‍💻 About Me**
+I’m a Full-Stack Developer with hands-on experience in building scalable and user-focused web applications using Java, React, Node.js, and SQL. I enjoy solving real-world problems through clean code, structured design, and modern development practices.
+Along with full-stack development, I also explore cybersecurity concepts to better understand secure coding, data protection, and system vulnerabilities.
 
 ---
 
 ### 🔧 Tech Stack
-- ☕ HTML,CSS
-- 🌐 Java, JavaScript, Node Js
-- 🛠 MySQL, MngoDB
-- 🖥 Git & GitHub, VS Code, IntelliJ IDEA
+**Languages & Frameworks**
+•Java
+•Spring Boot
+•JavaScript
+•React
+•Node.js
+•Express
 
+**Database & Cloud**
+•MySQL
+•MongoDB
+•AWS
+
+**Tools & Other Skills**
+•GitHub
+•Postman
+•VS Code
 ---
 
 ### 📘 Projects
