@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Bharat Patil (Rakesh Patil)
+# 👋 Hi there, I'm Himanshu Mahajan
 
 🚀 Aspiring Software Developer | 💻 Java Enthusiast | 🌐 Web Developer in Progress
 
@@ -7,20 +7,38 @@ I'm passionate about building real-world applications using Java and exploring m
 ---
 
 ### 🔧 Tech Stack
-- ☕ Java, Swing (GUI), Java Sockets
-- 🌐 C, C++, Java, JavaScript
-- 🛠 MySQL, MngoDB JDBC
+- ☕ HTML,CSS
+- 🌐 Java, JavaScript, Node Js
+- 🛠 MySQL, MngoDB
 - 🖥 Git & GitHub, VS Code, IntelliJ IDEA
 
 ---
 
 ### 📘 Projects
 
-- *ChatApplication* – A TCP-based client-server chat application built in Java with both Console and GUI (Swing) interfaces.  
-  [View Repo](https://github.com/BharatPatil-1307/ChatApplication)
+**CourseEra(Online Course Selling Platform)**
+-Built a full-stack web application using React.js (frontend) and Node.js with Express (backend).
+-implemented user authentication (JWT) and role-based access control .
+-Integrated Stripe payment gateway for secure online transactions.
+[View Repo](https://github.com/HimanshuMahajan09/coursera-service)
+[View Repo](https://github.com/HimanshuMahajan09/coursera-ui)
 
-- **DataStructureLibrary - DataStructureLibrary is a comprehensive C++ library that provides implementations of commonly used data structures and algorithms, along with an interactive console-based application to demonstrate their functionality. It is designed for students, developers, and professionals to learn, practice, and use standard data structures in C++.
-[View Repo](https://github.com/BharatPatil-1307/DataStructureLibrary)
+**Password Breach Detection System (Python, Tkinter,
+Bloom Filter)**
+-Built a security tool that checks if a password exists in
+leaked/breached password data using a Bloom Filter for fast and
+memory-efficient lookup.
+-Implemented multiple hash functions and bit array logic to ensure
+quick detection with minimal false positives.
+-Developed a simple and user-friendly Tkinter GUI for real-time
+password safety checking.
+-Strengthened understanding of data structures, hashing, and
+cybersecurity practices for password protection.
+[View Repo](https://github.com/HimanshuMahajan09/Password_Detector)
+
+**MiniDrive – Cloud File Storage Web App**
+Built a mini cloud storage platform, “MiniDrive,” that allows users to upload, access, and manage files securely from a centralized dashboard. Designed with user authentication, protected routes, and efficient file operations to provide a Google-Drive-like experience at a smaller scale.
+[View Repo](https://github.com/HimanshuMahajan09/Mini-Drive)
 
 - More projects coming soon...
 
@@ -37,8 +55,8 @@ I'm passionate about building real-world applications using Java and exploring m
 
 ### 📬 Let's Connect
 
-- 📧 Email: rp9609717@gmail.com
-- 💼 (https://linkedin.com/in/your-link)](https://www.linkedin.com/in/bharat-sanjay-patil-23699837a/)
+- 📧 Email: himanshumahajan1554@gmail.com
+- 💼 [(https://linkedin.com/in/your-link)](https://www.linkedin.com/in/himanshu-mahajan-776804241/)
 - 🧠 Portfolio: (Coming soon)
 
 ---
